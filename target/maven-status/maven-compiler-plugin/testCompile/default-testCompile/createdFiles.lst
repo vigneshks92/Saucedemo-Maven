@@ -1,0 +1,3 @@
+testcases\SaucedemoLoginTest.class
+pages\SaucedemoLoginPage.class
+testcases\SaucedemoBaseClass.class
